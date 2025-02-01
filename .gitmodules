@@ -1,0 +1,6 @@
+[submodule "LyNoS"]
+	path = LyNoS
+	url = https://github.com/raidionics/LyNoS.git
+[submodule "ct_mediastinal_structures_segmentation"]
+	path = ct_mediastinal_structures_segmentation
+	url = https://github.com/dbouget/ct_mediastinal_structures_segmentation.git
