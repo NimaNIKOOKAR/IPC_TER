@@ -4,3 +4,9 @@
 [submodule "ct_mediastinal_structures_segmentation"]
 	path = ct_mediastinal_structures_segmentation
 	url = https://github.com/dbouget/ct_mediastinal_structures_segmentation.git
+[submodule "ct_mediastinal_structures_segmentation_IPC"]
+	path = ct_mediastinal_structures_segmentation_IPC
+	url = https://github.com/NimaNIKOOKAR/ct_mediastinal_structures_segmentation_IPC.git
+[submodule "LyNoS_IPC"]
+	path = LyNoS_IPC
+	url = https://github.com/NimaNIKOOKAR/LyNoS_IPC.git
